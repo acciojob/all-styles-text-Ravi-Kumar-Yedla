@@ -1,5 +1,5 @@
-#heading.heading>h1{
-Font-size: 20px;
+#heading.heading{
+font-size:20px;
 color:white;
 text-decoration: underline;
 }
